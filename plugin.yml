@@ -1,0 +1,6 @@
+name: firstPlugin
+version: "1.0"
+api: ["1.0.0"]
+author: klys
+description: A basic plugin for NukkitX
+main: com.klys.FirstPlugin.main
